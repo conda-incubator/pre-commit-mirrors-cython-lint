@@ -1,7 +1,7 @@
-black(-conda) mirror
+cython-lint(-conda) mirror
 ====================
 
-Mirror of black for pre-commit with conda as a language.
+Mirror of black for cython-lint with conda as a language.
 
 For pre-commit: see https://github.com/pre-commit/pre-commit
 For cython-lint: see https://github.com/MarcoGorelli/cython-lint
