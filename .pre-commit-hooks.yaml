@@ -1,7 +1,7 @@
 - id: cython-lint-conda
   name: cython-lint-conda
-  description: "A tool and pre-commit hook to lint Cython files."
+  description: Lint Cython files
   entry: cython-lint
   language: conda
   require_serial: true
-  types: [python]
+  types: [cython]
