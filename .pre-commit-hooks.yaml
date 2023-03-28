@@ -9,5 +9,5 @@
   name: double-quote Cython strings-conda
   description: replaces single-quoted strings with double-quoted strings.
   entry: double-quote-cython-strings
-  language: python
+  language: conda
   types: [cython]
