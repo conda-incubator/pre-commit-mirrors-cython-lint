@@ -2,4 +2,4 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - cython-lint=0.14.0
+  - cython-lint=0.15.0
