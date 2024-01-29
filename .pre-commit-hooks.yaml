@@ -1,13 +1,13 @@
 - id: cython-lint-conda
   name: cython-lint-conda
-  description: Lint Cython files
+  description: 'Lint cython files'
   entry: cython-lint
   language: conda
   require_serial: true
   types: [cython]
 - id: double-quote-cython-strings-conda
   name: double-quote Cython strings-conda
-  description: replaces single-quoted strings with double-quoted strings.
+  description: 'Replace single-quoted strings with double-quoted strings.'
   entry: double-quote-cython-strings
   language: conda
   types: [cython]

@@ -1,0 +1,7 @@
+# This file is managed by Copier; DO NOT EDIT OR REMOVE.
+_commit: v0.1.4
+_src_path: git@github.com:quantco/copier-template-pre-commit-mirrors
+description: Lint cython files
+entry: cython-lint
+tool: cython-lint
+url: https://github.com/MarcoGorelli/cython-lint
